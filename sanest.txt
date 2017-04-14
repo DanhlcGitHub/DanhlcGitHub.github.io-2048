@@ -1,0 +1,11 @@
+var myfunction = function(){
+   console.log("here");
+   console.log("yeah! i make some change here");
+}
+
+var myNewFunction = function(){
+   console.log("this is new function");
+}
+
+
+
