@@ -1,7 +1,3 @@
-var myfunction = function(){
-   console.log("here");
-}
-
 var myNewFunction = function(){
    console.log("this is new function");
 }
